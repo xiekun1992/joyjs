@@ -1,0 +1,32 @@
+{
+  "name": "joyjs",
+  "version": "0.0.1",
+  "description": "a light weight web framework for fun",
+  "main": "joy.js",
+  "scripts": {
+    "test": "mocha joy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiekun1992/joyjs.git"
+  },
+  "keywords": [
+    "joy"
+  ],
+  "author": "xiekun1992",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiekun1992/joyjs/issues"
+  },
+  "homepage": "https://github.com/xiekun1992/joyjs#readme",
+  "devDependencies": {
+    "karma": "^0.13.21",
+    "karma-chrome-launcher": "^0.2.2",
+    "karma-firefox-launcher": "^0.1.7",
+    "karma-ie-launcher": "^0.2.0",
+    "karma-mocha": "^0.2.2",
+    "karma-requirejs": "^0.2.5",
+    "mocha": "^2.4.5",
+    "requirejs": "^2.1.22"
+  }
+}
